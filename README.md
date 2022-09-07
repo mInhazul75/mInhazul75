@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome .</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome </h1>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -15,7 +15,9 @@
 
 I am an professional software developer with 3 years experience in tech industries. 
 I enjoy meeting new people and hearing new perspectives. Reach out if you want to talk to me about emerging tech, creating software products .
-Huge love for Node.js, React.js, Laravel, Everything API,and System Architecture. Currently,  I'm open to work and employment opportunities .
+
+Huge love for Node.js, React.js, Php , Laravel, Everything API,and System Architecture. Currently, 
+I'm open to work and employment opportunities .
 
 
 
