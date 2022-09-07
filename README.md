@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome .</h1>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -13,7 +13,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
-I am a Full Stack Developer with a huge love for Node.js, React.js, Laravel, Everything API,and System Architecture. Currently, **I'm open to work and employment opportunities**.
+I am an professional software developer with 3 years experience in tech industries. 
+I enjoy meeting new people and hearing new perspectives. Reach out if you want to talk to me about emerging tech, creating software products .
+Huge love for Node.js, React.js, Laravel, Everything API,and System Architecture. Currently,  I'm open to work and employment opportunities .
 
 
 
