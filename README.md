@@ -12,6 +12,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDb](https://img.shields.io/badge/MongoDB-005C84?style=flat-square&logo=mongodb&logoColor=green)
 
 I am an professional software developer with 3 years experience in tech industries. 
 I enjoy meeting new people and hearing new perspectives. Reach out if you want to talk to me about emerging tech, creating software products .
