@@ -14,11 +14,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![MongoDb](https://img.shields.io/badge/MongoDB-005C84?style=flat-square&logo=mongodb&logoColor=green)
 
-I am an professional software developer with 3 years experience in tech industries. 
-I enjoy meeting new people and hearing new perspectives. Reach out if you want to talk to me about emerging tech, creating software products .
-
-Huge love for Node.js, React.js, Php , Laravel, Everything API,and System Architecture. Currently, 
-I'm open to work and employment opportunities .
+I am a Fullstack Developer with a strong programming background and experience in Express js , Nest js , React.js , Next js , Php , Laravel, Mongo Db, Mysql , Api development and System Architecture. I have excellent interpersonal skills and can communicate technical ideas clearly and effectively. I enjoy meeting new people and hearing new perspectives. Reach out if you want to talk to me about emerging tech, creating software products .I'm open to work and employment opportunities .
 
 
 
