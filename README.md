@@ -59,10 +59,9 @@
 ![WebSocket](https://img.shields.io/badge/WebSocket-000000?style=flat-square&logo=webstorm&logoColor=white)
 
 ---
-
 ## 📫 Connect With Me
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithen-bd/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minhaz-dev/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/mithen_bd)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/minhaz.dev/)
 
