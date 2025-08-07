@@ -13,9 +13,21 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![MongoDb](https://img.shields.io/badge/MongoDB-005C84?style=flat-square&logo=mongodb&logoColor=green)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-3B3B3B?style=flat-square&logo=serverfault&logoColor=white)
+![Pusher](https://img.shields.io/badge/Pusher-020121?style=flat-square&logo=pusher&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-000000?style=flat-square&logo=webstorm&logoColor=white)
 
-I am a Fullstack Developer with a strong programming background and experience in Express js , Nest js , React.js , Next js , Php , Laravel, Mongo Db, Mysql , Api development and System Architecture. I have excellent interpersonal skills and can communicate technical ideas clearly and effectively. I enjoy meeting new people and hearing new perspectives. Reach out if you want to talk to me about emerging tech, creating software products .I'm open to work and employment opportunities .
+I'm a Fullstack Developer with a solid programming foundation and hands-on experience in Express.js, NestJS, React.js, Next.js, PHP, Laravel, MongoDB, MySQL, and API development. I specialize in building scalable systems and robust backend architectures.
 
+My skill set also includes working with Docker, Redis, and managing deployments on platforms like DigitalOcean, local VPS, and cPanel. I thrive in end-to-end product development—from designing system architecture to writing clean, maintainable code.
+
+Beyond technical skills, I bring strong interpersonal communication to the table. I enjoy connecting with people, sharing ideas, and learning from diverse perspectives. Whether it's about emerging technologies, creating software products, or discussing scalable systems, I’m always up for a great conversation.
+
+📬 Feel free to reach out—I'm currently open to work and exploring exciting opportunities!
 
 
 
